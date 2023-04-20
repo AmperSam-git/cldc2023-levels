@@ -1,0 +1,47 @@
+This entry is was made by two people, one for level design, the other for graphics and ASM exclusively 
+found in this entry. We cannot reveal our names untill the judging period is over. But this document 
+lists the credits and resources made by third-party individuals (as in, individuals that are not 
+involved in the creation of this level) that are used in the entry.
+
+-Graphics Credits-
+Modern 3/4ths Redrawn Mario Bros. - icegoom, chaoxys et. al
+Super Mario World Redrawn Graphics Base - icegoom, Moltz
+Apotasy Font - Jimmy (ZDoom forums)
+
+-Graphics Reference Credits-
+Titlescreen - Original lineart sketch reference by Mikeystar
+Hazmat Koopas - Original pixel reference by Skewer 
+Superheated Room Cooldown Cases and Wall Decor - Original reference by corlenbelspar
+
+-Sprite Credits-
+Air Counter - Ice Man
+Missile Bill - Romi, Blind Devil
+
+-Patch Credits-
+See "list of asar patches im using.txt" for the authors as they are too many to list.
+
+-uberASM Credits-
+Super Metroid Norfair Heat - spooonsss
+Press R to Switch Mario and Luigi Overworld - Bensalot
+
+-Block Credits-
+Swamp Water (basis for oil) - SkywinDragoon
+
+-Music Credits-
+Murder: The EDF Conspiracy ~ Operative Alpha - Masterlink
+Duke Nukem 3D BDP: The Gate ~ Tanheuser Gate - Masterlink
+Ballad of a Bloodline ~ Steam - JX
+
+-Testers-
+Masterlink, Selicre, LouisDoucet, Brette, Skewer, Fernap, Anorakun, Patcdr, AmperSam, MegaMarioMan9
+
+Any ASM, Music, and Graphics used but is not listed in the credits should be assumed 
+to be made by the authors of this contest entry. We will reveal our names on the
+resources we created after the results come out.
+
+-Inspirations-
+Super Mario World Central Production 2's Petroleum Passage, Ballad of a Bloodline's
+Steaming Systems Dungeon, Mega Man Revolution (Remix) Pyre (Wo)Man's Heat Gimmick,
+Super Metroid Redesign's Hell Run
+
+

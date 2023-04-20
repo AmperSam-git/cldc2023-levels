@@ -1,0 +1,62 @@
+Better Powerdown (_better_powerdown.asm) - MarioFanGamer
+Block Duplication Fix v1.5 (_blockduplicationfix.asm) - Tattletale/lolcats439
+Bob-Omb/Stunned Enemy Timer Fix (_bobombtimerfix.asm) - Skewer
+Bonus Game Midpoint Fix (_BonusGameMidpointFix.asm) - yoshifanatic
+Cape Layer 2 Position Fix (_capeposfix.asm) - GreenHammerBro
+Double Spinjump Antifail (_spinspinspinaaaaaugghh.asm) - Alcaro
+Dry Bones/Bony Beetle/Mega Mole Invincibility Fix (_spriteinvfix.asm) - Davros
+Explosion & Yoshi Immunity Fix (_epfix.asm) - SkywinDragoon
+Explosion Sensitivity Block Patch (_bobomb.asm) - Roy
+Extended No More Sprite Tile Limits (_extendnstl.asm) - DiscoTheBat, KevinM, Roy, imamelia, worldpeace
+Faster Climbing with X/Y (_vine.asm) - Francium
+Free Vertical Scrolling (_freeverticalscrolling.asm) - Skewer
+Hammer Bro Platform Fix v1.1 - yoshifanatic
+HDMA Bugfixes (HDMAFixes.asm) - Ice Man
+Inline Layer 3 Messages v1.0.1 (_InlineLayer3Message.asm, InlineMessageNmi.asm) - MarioFanGamer
+Item Box Mushroom Priority Fix (_fixmush.asm) - Alcaro
+Layer 3 Position Fix (_l3posfix.asm) - imamelia
+Line-Guide "Acts Like" Fix (_lineguideactfix.asm) - imamelia
+Line-Guided Rope Length Fix (_lineropelengthfix.asm) - imamelia
+Mellonpizza's P-Balloon Improvement (_mellonballoon.asm) - Erik, Mellonpizza
+Move Layer 3 to Subscreen Fix v1.1 (_lmfix.asm) - KevinM, Lui
+Nintendo Presents Logo Expansion v1.3 (_logo.asm) - Roy, ghettoyouth
+No More Sprite Tile Limits v1.2.1 (_asarspritetiles.asm) - Arujus, MathOnNapkins, NoelYoshi, Tattletale, Vitor Vilela, edit1754
+No Silent Bullet Bill (_NoSilentBullet.asm) - Ramp202
+No Sprite Interaction Fix (_No Sprite Interaction Fix.asm) - chillyfox
+No Title Screen Movement v2.0 (_No Title Movement) - DiscoTheBat, Erik
+Note Block Spin Jump Fix (_NoteBlockSpinFix.asm) - KevinM
+Offscreen Indicator (OffscreenIndicatorPatch.asm) - Thomas
+P-Switch duplication with Yoshi fix (_PressedSwitchYoshiFix.asm) - KevinM
+Piranha Plant Patch Fix (_PIR.asm) - Chdata
+Podoboo Buoyancy Fix (_PodobooFix.asm) - JamesDS8
+Proximity Wraparound Fix v2.0 (_ProximityWrapFix.asm) - GreenHammerBro, JackTheSpades, RussianMan
+Retry System (+ Multiple Checkpoints) v2.06c - KevinM, LX5, worldpeace
+Red Net Climbing Koopa Turning Fix (_netkoopafix.asm) - Ice Man
+Rollover Fix (_RolloverFix.asm) - Noobish Noobsicle
+Rope Fix (_Rope Fix.asm) - Alcaro
+Score+9 (_score9.asm) - Alcaro
+Separate Luigi Graphics v3 (_luigi.asm) - (Bensalot, DiscoTheBat, Smallhacker)
+Slope Pass Glitch Fix 2.1 (_slopepassfix.asm) - lolcats439
+Slow Horizontal Layer 2 (BG) Scrolling Rate (_bg.asm) - lolcats439
+SMA2 Slide Kill Chain (_SlideKillChain.asm) - GreenHammerBro
+SMW-Fix (_smwfix.asm) - MrCheeze
+SMW Wiggler Bug Fix (_wiggfix.asm) - zkip
+Solid Slope Assist (_solid_slope_assist.asm) - MarioFanGamer
+Spike Swim Fix v1.1 (_spikeswimfix.asm) - Alcaro, yoshifanatic
+Spin Jump from Note Blocks (_NoteBlockSpin.asm) - KevinM
+Sprite Ceiling Fix (_spriteceilingfix.asm) - Davros
+Sprite Initial Facing Fix v1.1 (_yourface.asm) - Alcaro
+Sprites Become Coins by Goal Sphere (_Sprites become Coins by Goal Sphere.asm) - Isikoro
+Star Fix (_starfix.asm) - GreenHammerBro, JackTheSpades
+Stunned Bob-Omb SFX (_BombBeep.asm) - JamesD28
+Thowmp Sprite Fix (_thwompsprfix.asm) - Davros, Lui
+Tide Current Fix (_currentfix.asm) - Koopster
+Tide Fix (_tidefix.asm) - allowiscous
+Time Up Fix (_timeupfix.asm) - Alcaro
+Torpedo Ted Offscreen Smoke Fix (_TorpedoOffscreenSmokeFix.asm) - KevinM
+Vertical Level SubOffScreen Fix (_VertOffScrFix.asm)- MarioFanGamer (in moderation)
+Victory Pose Fix v1.1 (_fixPlayerPose.asm) - TheBiob
+Wiggler Flower Fix (_WigglerFlowerSpawnFix.asm) - GreenHammerBro
+Wiggler Score Glitch Fix (_wigglerfix.asm) - xfix
+Yoshi Coin Score Fix (_YoshiCoinScoreFix.asm) - RussianMan
+Yoshi Keyhole Fix (_YoshiKeyholeFix.asm) - GreenHammerBro

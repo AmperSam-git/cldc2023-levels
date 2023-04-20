@@ -1,0 +1,14 @@
+-- Graphics --
+"Popful Mail - Guardess Ruins" by Anorakun, edited. (https://smwc.me/s/33492)
+
+-- Music --
+"Airwolf - Main Theme" port by FalseCircus (https://smwc.me/s/29860)
+
+-- External ASM --
+"Individual Dragon Coin Save" by JackTheSpades, lx5, worldpeace (https://smwc.me/s/22888)
+
+-- Resources --
+Built on RHR Baserom 4.14, see Baserom Credits.txt for details
+
+-- Testing --
+GbreezeSunset, MiracleWater, LouisDoucet, ft029

@@ -1,0 +1,48 @@
+Level Name : Pokey's Desert Planet
+Secrte Exit : No
+Switch Blocks : No
+Custom Music : Yes
+Dragon Coin : Yes
+
+- Tools -
+Lunar Magic (Created by FuSoYa)
+AddmusicK (Created by Kipernal)
+PIXI (Created by JackTheSpades)
+GPS (Created by TheBiob, p4plus2)
+UberASM (Created by Vitor Vilela)
+
+- Music -
+Pokemon Omega Ruby & Alpha Sapphire - Encounter! Zinnia (Ported by yoshi9429)
+Touhou 13: Ten Desires - True Administrator (Ported by Wakana)
+Bloody Wolf - Stage 1 (Ported by yoshi9429)
+Bomberman - Boss (Ported by yoshi9429)
+
+- Graphics -
+Sonic Advance 2 - Final Boss / Zone XX BG (Ripped by Infrared)
+Popful Mail (SNES) - Guardess Ruins (Exterior) BG (Ripped by Anorakun)
+Super Mario Maker 2: Super Mario World - Desert FG (Ripped by Dan)
+Spongebob Squarepants: The Creature from the Krusty Krab - Super Sized Patty BG (Ripped by Roberto zampari)
+Classic Factory 2021 FG (Ripped Gamma V)
+
+- Blocks -
+ON/OFF pressable button switch (Created by HammerBrother)
+Mario Solid and Sprite Solid Blocks (Created by ASMagician Maks)
+SMB3 Screen Scrolling Pipes (Created by HammerBrother)
+
+- Sprites -
+Romi
+Para-Dry Bones (Created by Erik)
+Blue Parakoopa (Created by Erik)
+bokoboko (Created by Carol)
+Wreckin' Chuck (Created by Eirk)
+
+- Patches -
+Minimalist Status Bars (Created by Ladida)
+GHB Disable score (Created by GreenHammerBro, WhiteYoshiEgg)
+Disable Bonus Stars (Created by Aika, imamelia)
+Extended Overworld Level Names (Created by Smallhacker)
+Retry System (Created by worldpeace)
+
+- UberASM -
+Facing ON-OFF (Created by yoshi9429)
+Disable Controller Buttons (Created by janklorde)

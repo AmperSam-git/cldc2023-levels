@@ -1,0 +1,15 @@
+To install it, you need to ADD a header to a clean SMW ROM. Do not use Lunar Magic before installing the BPS patch. The ROM Hasher should look like this.
+
+File MD5      944ABAEB9A14FF02D09367948F37BD3A        
+File SHA-1    15B51DA40ED5D1F868EDFCB9A2B73784CFA0A326
+File CRC32    2C36C43E 
+                               
+ROM MD5       CDD3C8C37322978CA8669B34BC89C804        
+ROM SHA-1     6B47BB75D16514B6A476AA0C73A683A2A4C18765
+ROM CRC32     B19ED489      
+
+Checksum valid    Yes                          
+
+Simply add 512 bytes to a clean SMW ROM, THEN install the BPS Patch so I would not get disqualified for submitting a broken patch. Don't be like Jeosberry!
+
+Per rules for Idol for the CLDC entry, MAKE SURE you submit your levels and create the BPS patch properly.

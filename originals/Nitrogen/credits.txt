@@ -1,0 +1,14 @@
+CLDC 2023 Entry - KALEIDOSLOPE
+
+GRAPHICS
+-'NESQuik New Demo - Raster Bars' BG by Nikku4211
+
+MUSIC
+-Title screen: 'Phoenix Wright: Ace Attorney: Trials and Tribulations - Godot ~ The Fragrance of Darkness; That is Coffee' ported by Kevin
+-Level: 'Unreal Tournament '99 - Nether Animal' ported by Dippy
+
+ASM
+-Retry Patch by Kevin, lx5 and worldpeace
+-Roto Disc Sprite by mikeyk
+-Shell Disassembly Sprite by Kevin
+-Framal Blocks par Sind

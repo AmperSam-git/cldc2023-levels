@@ -1,0 +1,24 @@
+RC1
+- Initial release.
+
+RC2
+- Burners now have more of a delay time.
+- Invisible coin blocks now are marked by outlines.
+- Various nerfs to certain areas.
+
+RC3
+- Logo in titlescreen is more readable.
+- Koopa Troopas in superheated sections now wear hazmat gear.
+- Minor adjustment to one section.
+
+RC4 (potentially final update)
+- Player now starts at lifefarm area.
+- Burners are more readable.
+- Added mandatory gimmick area.
+- More midpoints added.
+- Shortened the fall in one section.
+- Lowered volumne of Tanheuser Gate to w170.
+
+RC5 (final update)
+- Added a new superheated section.
+- Made a few more nerfs.
